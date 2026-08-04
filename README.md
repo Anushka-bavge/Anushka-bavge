@@ -43,7 +43,6 @@
 
 ###
 
-<h3 data-importer="text" align="left">Hello World!!</h3>
 
 ###
 
